@@ -81,7 +81,7 @@ Parent–child relationship for enhanced versions
 
 Input validation and error handling
 
-
+---
 
 ### Phase 2: Node.js Enhancement Engine ✅
 This phase simulates an AI-powered enhancement workflow, demonstrating how research-based content improvement can be automated.
@@ -114,7 +114,7 @@ Custom AI enhancement logic
 
 #### Note: Google Search API and AI models are simulated to demonstrate the full workflow.
 
-
+---
 
 ### Phase 3: React Dashboard ✅
 A modern, responsive dashboard to visualize original and enhanced articles clearly.
@@ -178,6 +178,7 @@ npm start"
 
 ## 🌐 Access Points
 React Dashboard: http://localhost:3000
+
 Laravel API: http://127.0.0.1:8000/api
 
 ---
@@ -294,17 +295,3 @@ Developed as part of the BeyondChats Technical Assignment.
 Code is available for evaluation and learning purposes.
 
 ---
-
-## 📞 Contact & Links
-
-GitHub: <Your GitHub Repo URL>
-
-Live Demo: <Deployment URL>
-
-LinkedIn: <Your LinkedIn>
-
-Email: <Your Email>
-
-Last Updated: December 2025
-Version: 1.0.0
-Status: ✅ Complete & Production Ready
